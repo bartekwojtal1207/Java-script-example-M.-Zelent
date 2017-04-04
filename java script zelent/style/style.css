@@ -1,0 +1,7 @@
+ul{
+display: inline-block;
+}
+.btnPhoto{
+  display: inline-block;
+  cursor: pointer;
+};
